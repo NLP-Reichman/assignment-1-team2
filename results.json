@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1802
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 392.2846560491346,
+    "en_fr": 378.81715422898196,
+    "en_tl": 296.01590652155295,
+    "en_nl": 367.4630600307954
+  },
+  "test_match": {
+    "en_en_3": 218.8857665804742,
+    "en_tl_3": 171.3062225776979,
+    "en_nl_3": 205.19617434497468
+  },
+  "test_generate": {
+    "english_1_gram": "I\u2601\ud0c0\ud83e\udd54\ud83c\udf78\u26d3\u266bo\ud83d\udc4d\ud83c\udf78\uc9c0\u263cp\u27287\ud83d\udc96\ud83d\ude14 2,\ud83c\udfd2",
+    "english_2_gram": "I am5A)'o\ud83d\ude1e",
+    "english_3_gram": "I amkRDKE",
+    "english_4_gram": "I LoveActs) ht\u2026 masslee wt",
+    "spanish_2_gram": "Soy0jE\ud83d\ude0d\ud83d\udc4f\ud83c\udffc",
+    "spanish_3_gram": "Soyz8MK Elc2rOf",
+    "french_2_gram": "Je suisO,v\u0153t] Y-R\ud83d\udc4c Yu5Paly0",
+    "french_3_gram": "Je suisk"
+  }
+}
